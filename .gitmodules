@@ -1,0 +1,6 @@
+[submodule "BuilderPattern"]
+	path = BuilderPattern
+	url = https://github.com/ProgrammersPlayground/BuilderPattern.git
+[submodule "AdapterPattern"]
+	path = AdapterPattern
+	url = https://github.com/ProgrammersPlayground/AdapterPattern.git
